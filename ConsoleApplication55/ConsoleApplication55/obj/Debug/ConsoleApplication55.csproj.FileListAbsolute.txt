@@ -1,0 +1,5 @@
+c:\users\sc-new\documents\visual studio 2012\Projects\ConsoleApplication55\ConsoleApplication55\bin\Debug\ConsoleApplication55.exe.config
+c:\users\sc-new\documents\visual studio 2012\Projects\ConsoleApplication55\ConsoleApplication55\bin\Debug\ConsoleApplication55.exe
+c:\users\sc-new\documents\visual studio 2012\Projects\ConsoleApplication55\ConsoleApplication55\bin\Debug\ConsoleApplication55.pdb
+c:\users\sc-new\documents\visual studio 2012\Projects\ConsoleApplication55\ConsoleApplication55\obj\Debug\ConsoleApplication55.exe
+c:\users\sc-new\documents\visual studio 2012\Projects\ConsoleApplication55\ConsoleApplication55\obj\Debug\ConsoleApplication55.pdb
